@@ -1,6 +1,6 @@
 # React_Native
 #KOFFI Kouassi Hervé
-#KAKOU Amoin Cynthiza
+#KAKOU Amoin Cynthia
 #KOUAKOU Amoa Hermann
 
 
